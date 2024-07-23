@@ -1,14 +1,11 @@
 [project]
-name = "templatepy"
+name = "awhd8uwgadhuyawd"
 version = "0.1.0"
 description = "Add your description here"
 authors = [
-    { name = "2.30am", email = "111672334+am230@users.noreply.github.com" }
+    { name = "2.30am", email = "111672334+am230@users.noreply.github.com" },
 ]
-dependencies = [
-    "click>=8.1.7",
-    "pytest>=8.3.1",
-]
+dependencies = ["click>=8.1.7", "pytest>=8.3.1"]
 readme = "README.md"
 requires-python = ">= 3.8"
 
@@ -24,4 +21,4 @@ dev-dependencies = []
 allow-direct-references = true
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/templatepy"]
+packages = ["src/awhd8uwgadhuyawd"]

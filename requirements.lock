@@ -11,7 +11,7 @@
 
 -e file:.
 click==8.1.7
-    # via templatepy
+    # via awhd8uwgadhuyawd
 colorama==0.4.6
     # via click
     # via pytest
@@ -22,4 +22,4 @@ packaging==24.1
 pluggy==1.5.0
     # via pytest
 pytest==8.3.1
-    # via templatepy
+    # via awhd8uwgadhuyawd
