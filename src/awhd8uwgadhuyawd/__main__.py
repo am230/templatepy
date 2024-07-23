@@ -1,11 +1,12 @@
 import click
 
-from templatepy.fib import fib
+from awhd8uwgadhuyawd import fib, b_func
 
 
 @click.command()
 @click.argument("n", type=int)
 def main(n: int):
+    b_func(10)
     print(fib(n))
 
 
